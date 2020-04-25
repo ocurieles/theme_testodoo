@@ -1,0 +1,4 @@
+[submodule "ocurieles/odoo_payphone"]
+	path = ocurieles/odoo_payphone
+	url = git@github.com:ocurieles/odoo_payphone.git
+	branch = master
