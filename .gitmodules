@@ -2,3 +2,8 @@
 	path = ocurieles/odoo_payphone
 	url = git@github.com:ocurieles/odoo_payphone.git
 	branch = master
+
+[submodule "ingeint/odoo-payphone"]
+	path = ingeint/odoo-payphone
+	url = git@github.com:ingeint/odoo-payphone.git
+	branch = master
